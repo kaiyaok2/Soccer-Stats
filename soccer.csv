@@ -93,7 +93,7 @@
 20201226,Belgium,1,Club Brugge,AS  Eupen,-2,0.95,0.9,0.84,0.1,0.06,3,0,H,1
 20201226,England,4,Oldham Athletic,Harrogate Town,-0.25,1.1,0.77,0.43,0.34,0.23,1,2,H,-1
 20201226,England,4,Morecambe,Grimsby Town,-0.5,0.82,1.02,0.5,0.29,0.21,3,1,A,-1
-20201226,England,2,Nottingham Forest,Brimingham City,-0.25,0.87,0.97,0.48,0.28,0.24,0,0,H,-0.5
+20201226,England,2,Nottingham Forest,Birmingham City,-0.25,0.87,0.97,0.48,0.28,0.24,0,0,H,-0.5
 20201226,England,4,Crawley Town,Newport County,0.25,0.85,1,0.35,0.25,0.4,1,1,H,0.5
 20201226,England,2,Barnsley,Huddersfield Town,-0.25,1,0.85,0.38,0.25,0.37,2,1,A,-1
 20201226,England,4,Cheltenham Town,Stevenage,-1,1.05,0.8,0.53,0.27,0.2,1,1,A,1
@@ -200,3 +200,50 @@
 20201229,Portugal,1,Boavista,Sporting Braga,0.75,1.04,0.86,0.33,0.2,0.47,1,4,H,-1
 20201229,Chile,1,Universidad Concepcion,Everton(Vina del Mar),0.25,0.78,1.02,0.22,0.34,0.44,0,0,A,-0.5
 20201229,Brazil,2,Chapecoense,Parana,-0.5,1.05,0.8,0.67,0.33,0,2,0,H,1
+20201229,Australia,1,Brisbane Roar,Melbourne City,0.25,0.96,0.94,0.27,0.24,0.49,0,1,A,1
+20201229,Portugal,2,UD Oliveirense,Cova Piedade,-0.25,1.12,0.78,0.57,0.21,0.22,0,0,H,-0.5
+20201230,Turkey,1,Antalyaspor,Hatayspor,0,0.93,0.93,0.2,0.4,0.4,0,6,A,1
+20201230,Spain,1,Sevilla,Villareal,-0.25,0.95,0.98,0.39,0.29,0.32,2,0,A,-1
+20201230,Portugal,2,Vizela,Varzim,-0.75,0.8,1.05,0.76,0.18,0.06,1,0,H,0.5
+20201230,England,4,Stevenage,Cambridge United,0.25,0.88,0.98,0.3,0.3,0.4,1,0,H,1
+20201230,England,2,Birmingham City,Derby County,0,0.95,0.9,0.25,0.5,0.25,0,4,H,-1
+20201230,Scotland,2,Ayr United,Greenock Morton,-0.25,0.85,1,0.37,0.27,0.36,1,1,A,0.5
+20201230,Portugal,1,Benfica,Portimonense,-1.5,0.88,1.02,0.86,0.14,0,2,1,H,-1
+20201230,England,1,Southampton,West Ham United,-0.5,1.04,0.89,0.39,0.29,0.32,0,0,A,1
+20201230,England,1,Burnley,Sheffield United,-0.25,1.07,0.86,0.37,0.37,0.26,1,0,A,-1
+20201230,England,1,West Bromwich Albion,Leeds United,0.75,0.83,1.07,0.54,0.31,0.15,0,5,H,-1
+20201230,England,1,Brighton & Hove Albion,Arsenal,0.5,1.07,0.83,0.42,0.25,0.33,0,1,H,-1
+20201230,Spain,1,Barcelona,Elbar,-1.5,0.92,1.01,0.6,0.2,0.2,1,1,A,1
+20201230,Scotland,2,Inverness CT,Dumfermline Athletic,-0.25,1.05,0.75,0.43,0.28,0.29,1,1,H,-0.5
+20201230,England,3,Burton Albion,Wigan Athletic,-0.5,1.1,0.78,0.49,0.24,0.27,3,4,H,-1
+20201230,Portugal,1,Moreirense,Santa Clara,0,1.03,0.83,0.21,0.43,0.36,1,0,A,-1
+20201230,England,4,Leyton Orient,Southend United,-0.5,0.93,0.93,0.47,0.24,0.29,2,0,A,-1
+20201230,England,4,Bradford City,Port Vale,-0.25,1,0.85,0.38,0.32,0.3,0,0,A,0.5
+20201230,England,4,Forest Green Rovers,Crawley Town,-0.5,0.8,1.05,0.51,0.29,0.2,1,2,A,1
+20201230,England,3,Swindon Town,Milton Keynes Dons,0.25,0.95,0.9,0.26,0.32,0.42,1,4,H,-1
+20201230,England,2,Sheffield Wednesday,Middlesbrough,0.25,1.07,0.83,0.12,0.38,0.5,2,1,A,-1
+20201230,England,4,Walsall,Scunthorpe United,-0.5,0.83,1.03,0.5,0.27,0.23,1,2,A,1
+20201230,England,4,Grimsby Town,Oldham Athletic,0.25,0.78,1.1,0.34,0.3,0.36,0,0,H,0.5
+20201230,Belgium,1,AS Eupen,Zulte-Waregem,-0.25,0.83,1.03,0.34,0.38,0.28,2,3,A,1
+20201230,Scotland,2,Hearts,Abroath,-2,1,0.85,0.5,0.5,0,3,1,A,0
+20201230,Scotland,2,Raith Rovers,Queen of the South,-1.25,0.93,0.93,0.71,0,0.29,0,2,A,1
+20201230,Scotland,2,Dundee,Alloa Atheltic,-1,0.83,0.98,0.57,0.36,0.07,3,1,A,-1
+20201230,England,4,Colchester United,Cheltenham Town,0.75,0.9,0.95,0.11,0.28,0.61,0,0,A,-1
+20201230,England,4,Barrow AFC,Tranmere Rovers,-0.25,0.93,0.93,0.32,0.34,0.34,1,1,A,0.5
+20201230,England,3,Plymouth Argyle,Oxford United,-0.25,1.05,0.8,0.37,0.23,0.4,2,3,A,1
+20201230,England,3,Shrewsbury Town,Blackpool,0,1.1,0.78,0.25,0.25,0.5,1,0,A,1
+20201230,England,3,Northampton Town,Gillingham,0,0.93,0.93,0.2,0.4,0.4,3,1,A,-1
+20201230,England,2,Luton Town,Bristol City,-0.25,0.84,1.06,0.37,0.32,0.31,2,1,A,-1
+20201230,England,2,Norwich City,QPR,-1,1.1,0.8,0.57,0.29,0.14,1,1,A,1
+20201230,England,2,Rotherham United,Barnsley,0.25,1.04,0.86,0.31,0.19,0.5,1,2,A,1
+20201230,England,2,Huddersfield Town,Blackburn Rovers,0.5,0.91,0.99,0.29,0.36,0.35,2,1,H,1
+20201230,England,2,Wycombe Wanderers,Cardiff City,0.5,0.98,0.92,0.4,0.2,0.2,2,1,H,1
+20201230,England,2,Preston North End,Coventry City,-0.25,1.04,0.86,0.33,0.33,0.34,2,0,A,-1
+20201230,England,1,Manchester United,Wolverhampton Wanderers,-1,0.96,0.97,0.42,0.47,0.11,1,0,A,0
+20201230,England,2,Stoke City,Nottingham Forest,0,0.78,1.1,0.31,0.27,0.42,1,1,A,0
+20201230,Spain,1,Levante,Real Betis,0,0.94,0.99,0.24,0.39,0.37,4,3,A,-1
+20201230,Spain,1,Cadiz,Real Valladolid,0,1.15,0.79,0.5,0.5,0,0,0,H,0
+20201230,Portugal,1,Vitoria Guimaraes,Porto,0.75,0.99,0.91,0.17,0.17,0.66,2,3,A,0.5
+20201230,Brazil,2,Avai,CRB,0,0.75,1.13,0.27,0.3,0.43,0,1,A,1
+20201230,Brazil,2,Cruzeiro,Cuiaba,-0.75,0.83,1.03,0.37,0.53,0.1,0,0,A,1
+20201230,Australia,1,Western Sydney Wanderers,Macarthur FC,0,0.86,1.07,0.39,0.27,0.34,0,1,A,1
