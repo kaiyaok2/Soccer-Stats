@@ -843,3 +843,32 @@
 20210120,England,1,Leicester City,Chelsea,0,1.06,0.84,0.47,0.19,0.34,2,0,H,1,0
 20210120,Spain,1,Deportivo Alaves,Sevilla,0.5,1.07,0.86,0.17,0.26,0.57,1,2,A,1,0
 20210120,Australia,1,Newcastle Jets,Brisbane Roar,0,1.01,0.89,0.33,0.3,0.37,1,2,H,-1,0
+20210120,France,Cup(Coupe de France),Clemont,Grenoble,-0.25,0.9,0.95,0.48,0.29,0.23,1,1,H,-0.5,0
+20210120,Turkey,1,Rizespor,Gaziantep FK,0.25,0.88,0.98,0.29,0.3,0.41,3,0,H,1,0
+20210120,Turkey,1,Hatayspor,Yeni Malatyaspor,-0.25,1,0.85,0.37,0.24,0.39,1,2,A,1,0
+20210120,Italy,1,Udinese,Atalanta,0.5,0.94,0.99,0.2,0.23,0.57,1,1,A,-1,0
+20210121,Turkey,1,Galatasaray,Denizlispor,-1.25,0.8,1.05,0.82,0,0.18,6,1,H,1,0
+20210121,Germany,1,Schalke 04,Koln,0,1.13,0.81,0.21,0.41,0.38,1,2,A,1,0
+20210121,Spain,Cup(Copa del Rey),Cordoba,Real Sociedad,1.25,0.88,0.98,0.22,0.11,0.67,0,2,H,-1,0
+20210121,England,1,Manchester City,Aston Villa,-1.5,0.95,0.98,0.5,0.5,0,2,0,A,-1,0
+20210121,Spain,1,Getafe,Huesca,-0.5,0.85,1.08,0.89,0,0.11,1,0,H,1,0
+20210121,England,2,Norwich City,Bristol City,-1,0.9,1,0.63,0.33,0.04,2,0,A,-1,0
+20210121,England,2,Cardiff City,QPR,-0.25,0.88,1.02,0.45,0.27,0.28,0,1,H,-1,0
+20210121,England,2,Nottingham Forest,Middlesbrough,0,0.9,1,0.38,0.25,0.37,1,2,A,1,0
+20210121,England,2,Huddersfield Town,Millwall,0.25,0.89,1.01,0.31,0.29,0.4,0,1,H,-1,0
+20210121,England,2,Brentford,Luton Town,-0.75,0.79,1.11,0.58,0.36,0.06,1,0,A,-0.5,0
+20210121,Germany,1,Augsburg,Bayern Munich,2.25,0.93,1,0,0.25,0.75,0,1,H,1,0
+20210121,Germany,1,RB Leipzig,Union Berlin,-1,0.99,0.94,0.68,0.26,0.06,1,0,H,0,0
+20210121,Germany,1,Freiburg,Eintracht Frankfurt,0,1.11,0.82,0.4,0.27,0.33,2,2,H,0,0
+20210121,Germany,1,Arminia Bielefeld,Stuttgart,0.5,1.05,0.88,0.05,0.14,0.81,3,0,A,-1,0
+20210121,England,2,Birmingham City,Preston North End,0,0.87,1.03,0.41,0.29,0.3,0,1,H,-1,0
+20210121,Brazil,1,Botafogo,Atletico GO,-0.25,1,0.85,0.43,0.2,0.37,1,3,A,1,0
+20210121,Spain,Cup(Copa del Rey),CD Alcoyano,Real Madrid,2,1.03,0.83,0.19,0.06,0.75,1,1,H,1,0
+20210121,France,1,Olympique Marseille,Lens,-0.25,0.87,1.06,0.38,0.31,0.31,0,1,A,1,0
+20210121,Spain,1,Real Betis,Celta Vigo,-0.25,0.84,1.09,0.49,0.22,0.29,2,1,H,1,0
+20210121,Italy,Cup(Super Coppa Italiana),Juventus,Napoli,0,0.85,1.05,0.4,0.2,0.4,2,0,A,-1,0
+20210121,England,1,Fulham,Manchester United,0.75,1.1,0.83,0.2,0.2,0.6,1,2,H,-0.5,0
+20210121,Spain,1,Villareal,Granada,-0.75,0.98,0.95,0.8,0.2,0,2,2,H,-1,0
+20210121,Brazil,1,Bahia,Athletico Paranaense,-0.5,0.98,0.88,0.35,0.35,0.3,1,0,A,-1,0
+20210121,Brazil,1,Gremio,Atletico Mineiro,0,0.8,1.05,0.3,0.37,0.33,1,1,A,0,0
+20210121,Brazil,1,Coritiba,Fluminense,0.25,0.78,1.1,0.26,0.21,0.53,3,3,A,-0.5,0
