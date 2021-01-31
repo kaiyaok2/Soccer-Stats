@@ -21,7 +21,7 @@
 20201223,Isarel,1,Hapoel Hadera,Maccabi Netanya,0.25,0.85,1,0.25,0.25,0.5,2,1,A,-1,0
 20201223,Switzerland,2,Neuchatel,Winterthur,0,0.9,0.9,0.5,0.25,0.25,2,0,H,1,0
 20201223,Italy,2,SPAL,Lecce,0.25,0.82,1.02,0.4,0.25,0.35,1,0,H,1,0
-20201223,Italy,2,Pordeone,Cremonese,-0.25,1.05,0.8,0.31,0.31,0.38,1,2,A,1,0
+20201223,Italy,2,Pordenone,Cremonese,-0.25,1.05,0.8,0.31,0.31,0.38,1,2,A,1,0
 20201223,Italy,2,Pisa,Chievo,0,1.05,0.8,0.3,0.27,0.43,2,2,A,0,0
 20201223,Italy,2,Pescara,Brescia,0,1.1,0.77,0.26,0.33,0.41,1,1,A,0,0
 20201223,Italy,2,Cittadella,Frosinone,-0.25,1.05,0.8,0.42,0.38,0.2,1,0,H,1,0
@@ -250,7 +250,7 @@
 20201230,Chile,1,Union La Calera,CD O'Higgins,-0.5,0.83,0.98,0.51,0.32,0.17,0,1,A,1,0
 20201230,Italy,2,Cittadella,Lecce,0,0.83,1.03,0.23,0.5,0.27,2,2,A,0,0
 20201230,Italy,2,Pescara,Cosenza,-0.25,1.05,0.8,0.25,0.45,0.3,0,0,A,0.5,0
-20201230,Italy,2,Pordeone,Reggiana,-0.75,1,0.85,0.53,0.26,0.21,3,0,A,-1,0
+20201230,Italy,2,Pordenone,Reggiana,-0.75,1,0.85,0.53,0.26,0.21,3,0,A,-1,0
 20201230,Italy,2,Reggina,Cremonese,-0.25,0.95,0.9,0.43,0.34,0.23,1,0,H,1,0
 20201230,Italy,2,Monza,Salernitana,-0.75,0.8,1.05,0.62,0.25,0.13,3,0,H,1,0
 20201230,Portugal,2,Porto II,Academico Viseu,-0.25,1.05,0.8,0.59,0.18,0.23,2,3,H,-1,0
@@ -726,7 +726,7 @@
 20210116,Italy,2,Monza,Cosenza,-1.25,0.98,0.88,0.7,0.3,0,2,2,H,-1,0
 20210116,Italy,2,Cittadella,Ascoli,-1,0.93,0.93,0.4,0.3,0.3,1,1,A,0,0
 20210116,Italy,2,Pisa,Brescia,0,0.78,1.1,0.2,0.53,0.27,1,0,A,-1,0
-20210116,Italy,2,Pordeone,Venezia,0,0.88,0.98,0.34,0.4,0.26,2,0,H,1,0
+20210116,Italy,2,Pordenone,Venezia,0,0.88,0.98,0.34,0.4,0.26,2,0,H,1,0
 20210116,France,2,Troyes,Sochaux,-0.5,0.95,0.9,0.5,0.33,0.17,2,1,H,1,0
 20210116,France,2,Toulouse,Grenoble,-0.5,1.03,0.83,0.48,0.33,0.19,2,0,H,1,0
 20210116,Italy,1,Bologna,Hellas Verona,-0.25,0.96,0.97,0.4,0.28,0.32,1,0,A,-1,0
@@ -1094,3 +1094,87 @@
 20210129,Spain,Cup(Copa del Rey),CD Alcoyano,Athletic Club,0.75,0.98,0.88,0.1,0.2,0.7,1,2,A,0.5,0
 20210129,Brazil,1,Bahia,Corinthians,-0.25,0.95,0.9,0.4,0.3,0.3,2,1,A,-1,0
 20210129,Brazil,1,Gremio,Flamengo,0.25,0.88,0.98,0.3,0.4,0.3,2,4,H,-1,0
+20210129,Australia,1,Western Sydney Wanderers,Newcastle Jets,-0.25,1.09,0.81,0.41,0.29,0.3,1,1,H,-0.5,0
+20210129,Turkey,1,Yeni Malatyaspor,Fatih Karagumruk,-0.25,1.05,0.8,0.41,0.3,0.29,0,0,H,-0.5,0
+20210130,Turkey,1,Gaziantep FK,Galatasaray,0.5,1.03,0.83,0.41,0.22,0.37,1,2,H,-1,0
+20210130,Germany,2,Wurzburger Kickers,Fortuna Dusseldorf,0.75,0.88,0.98,0.24,0.17,0.59,2,1,A,-1,0
+20210130,Germany,2,Greuther Furth,Erzgebirge Aue,-1,1.05,0.8,0.68,0.18,0.14,3,0,H,1,0
+20210130,Netherland,2,Helmond Sport,Telstar,0.25,0.83,1.03,0.29,0.28,0.43,1,1,A,-0.5,0
+20210130,Netherland,2,PSV II,Ajax II,0.25,0.88,0.98,0.29,0.28,0.43,1,2,A,1,0
+20210130,Germany,1,Stuttgart,Mainz 05,-1,1.08,0.85,0.6,0.2,0.2,2,0,A,-1,0
+20210130,Italy,1,Torino,Fiorentina,0,1,0.93,0.33,0.3,0.37,1,1,A,0,0
+20210130,Spain,2,Real Zaragoza,SD Ponferradina,-0.75,1.03,0.83,0.38,0.38,0.24,1,0,A,-0.5,0
+20210130,Netherland,2,De Graafschap Doetinchem,TOP Oss,-1.25,1.03,0.83,0.71,0.16,0.13,2,1,H,-0.5,0
+20210130,England,2,Reading,AFC Bournemouth,0.25,1.03,0.87,0.3,0.25,0.45,3,1,H,1,0
+20210130,Spain,1,Real Valladolid,Huesca,-0.25,0.82,1.11,0.24,0.43,0.33,1,3,A,1,0
+20210130,Netherland,2,NVAV NEC,Utrecht II,-0.75,0.8,1.05,0.64,0.2,0.16,2,0,H,1,0
+20210130,France,1,Olympique Lyonnais,Bordeaux,-1.5,1.07,0.86,1,0,0,2,1,H,-1,0
+20210130,Italy,2,Vicenza Virtus,Venezia,0.25,0.8,1.05,0.17,0.33,0.5,0,0,A,-0.5,0
+20210130,Australia,1,Western United,Melbourne Victory,-0.25,1.09,0.81,0.43,0.23,0.34,0,0,H,-0.5,0
+20210130,Australia,1,Macarthur FC,Sydney,0.25,0.8,1.05,0.36,0.26,0.38,0,3,H,-1,0
+20210130,Turkey,1,Kasimpasa,Kayserispor,-0.5,0.85,1,0.55,0.18,0.27,0,1,H,-1,0
+20210130,Australia,1,Brisbane Roar,Adelaide United,-0.5,0.95,0.9,0.46,0.28,0.26,3,1,A,-1,0
+20210130,Germany,2,Holstein Kiel,Eintracht Braunschweig,-0.75,0.98,0.88,0.71,0.22,0.07,3,1,H,1,0
+20210130,Germany,2,Jahn Regensburg,Darmstadt,0,0.93,0.93,0.3,0.3,0.4,1,1,A,0,0
+20210130,Germany,2,Hamburger SV,Paderborn,-0.5,0.88,0.98,0.6,0.21,0.19,3,1,H,0,0
+20210130,England,2,Norwich City,Middlesbrough,-0.75,0.97,0.93,0.59,0.33,0.08,0,0,H,-1,0
+20210130,England,1,Everton,Newcastle United,-1,1.06,0.87,0.61,0.22,0.17,0,2,A,1,0
+20210130,Netherland,2,Excelsior,BVV Den Bosch,-1.25,0.85,1,0.75,0.25,0,4,4,H,-1,0
+20210130,Italy,2,Virtus Entella Primavera,Cosenza,0,0.83,1.03,0.29,0.43,0.28,1,2,A,1,0
+20210130,Italy,2,Empoli,Frosinone,-0.5,0.8,1.05,0.17,0.33,0.5,3,1,A,-1,0
+20210130,Italy,2,Pordenone,Lecce,0.25,0.78,1.1,0.5,0.5,0,1,1,H,0.5,0
+20210130,Italy,2,Ascoli,Brescia,0,1,0.85,0.3,0.26,0.44,2,1,A,-1,0
+20210130,Turkey,1,Istanbul Basaksehir,Hatayspor,-0.5,1,0.85,0.7,0.25,0.05,1,5,H,-1,0
+20210130,Spain,1,Elbar,Sevilla,0.5,0.9,1.03,0.3,0.15,0.55,0,2,A,1,0
+20210130,France,2,Toulouse,Clemont,0.25,0.9,0.95,0.33,0.17,0.5,3,2,A,-1,0
+20210130,France,2,Troyes,Auxerre,-0.25,0.8,1.05,0.65,0.18,0.17,3,1,H,1,0
+20210130,Italy,1,Bologna,Milan,0.5,0.94,0.99,0.13,0.33,0.54,1,2,A,1,0
+20210130,Germany,1,Werder Bremen,Schalke 04,-0.5,1.1,0.83,0.56,0.27,0.17,1,1,H,-1,0
+20210130,Germany,1,Union Berlin,Borussia Monchengladbach,0.25,1.08,0.85,0.22,0.3,0.48,1,1,A,-0.5,0
+20210130,Germany,1,Eintracht Frankfurt,Hertha BSC,-0.75,0.98,0.95,0.55,0.24,0.21,3,1,A,-1,0
+20210130,Germany,1,Borussia Dortmund,Augsburg,-2,1.1,0.83,0.86,0.14,0,3,1,H,0,0
+20210130,Germany,1,Bayern Munich,Hoffenheim,-2,0.96,0.97,0.83,0.02,0.15,4,1,H,1,0
+20210130,England,1,West Bromwich Albion,Fulham,0.25,1,0.93,0.28,0.21,0.51,2,2,A,-0.5,0
+20210130,England,1,Manchester City,Sheffield United,-2,0.93,1,0.83,0.12,0.05,1,0,A,1,0
+20210130,Spain,2,Real Oviedo,Albacete,-0.75,0.93,0.93,0.71,0.29,0,0,1,H,-1,0
+20210130,England,1,Crystal Palace,Wolverhampton Wanderers,0,1.08,0.85,0.25,0.32,0.43,1,0,A,-1,0
+20210130,England,2,Rotherham United,Swansea City,0.25,0.86,1.04,0.11,0.37,0.52,1,3,A,1,0
+20210130,England,2,Huddersfield Town,Stoke City,0,1.14,0.77,0.2,0.28,0.52,1,1,A,0,0
+20210130,England,2,Nottingham Forest,Barnsley,0,0.8,1.1,0.41,0.29,0.3,0,0,A,0,0
+20210130,England,2,Cardiff City,Millwall,-0.25,1.04,0.86,0.42,0.26,0.32,1,1,H,-0.5,0
+20210130,England,2,Blackburn Rovers,Luton Town,-0.5,0.93,0.97,0.56,0.27,0.17,1,0,H,1,0
+20210130,England,2,Birmingham City,Coventry City,0,1.05,0.85,0.27,0.27,0.46,1,1,A,0,0
+20210130,England,2,Brentford,Wycombe Wanderers,-1.5,0.94,0.96,0.79,0.21,0,7,2,H,1,0
+20210130,England,2,Derby County,Bristol City,-0.5,0.92,0.98,0.56,0.29,0.15,1,0,H,1,0
+20210130,England,2,Sheffield Wednesday,Preston North End,0,1.06,0.84,0.24,0.32,0.44,1,0,A,-1,0
+20210130,Italy,2,Pisa,Reggiana,-0.5,0.93,0.93,1,0,0,1,0,H,1,0
+20210130,Spain,1,Real Madrid,Levante,-1.5,0.89,1.01,0.77,0.11,0.12,1,2,H,-1,0
+20210130,Portugal,1,Nacional,Famalicao,0.25,0.78,1.13,0.14,0.29,0.57,2,1,A,-1,0
+20210130,Netherland,2,Dordrecht,Roda JC,0.75,1.05,0.8,0.23,0.23,0.54,0,5,H,-1,0
+20210130,Netherland,1,AVC Heracles,Groningen,-0.25,1.01,0.89,0.47,0.29,0.34,1,0,A,-1,0
+20210131,Turkey,1,Fenerbahce,Rizespor,-1.25,0.98,0.88,0.74,0.16,0.1,1,0,H,-0.5,0
+20210131,France,1,Montpellier,Lens,0.25,0.84,1.09,0.33,0.29,0.38,1,2,H,-1,0
+20210131,Italy,1,Sampdoria,Juventus,1.25,0.93,1,0.07,0.07,0.86,0,2,A,1,0
+20210131,Spain,2,Alcorcon,Malaga,-0.25,0.95,0.9,0.44,0.35,0.21,0,1,H,-1,0
+20210131,England,1,Arsenal,Manchester United,0.25,1.1,0.8,0.42,0.17,0.41,0,0,H,0.5,0
+20210131,Spain,1,Valencia,Elche,-0.75,1.05,0.88,0.63,0.11,0.26,1,0,H,0.5,0
+20210131,Germany,1,RB Leipzig,Bayer Leverkusen,-0.5,0.98,0.95,0.55,0.26,0.19,1,0,H,1,0
+20210131,Netherland,1,Utrecht,PEC Zwolle,-1,0.91,0.99,0.67,0.17,0.16,3,3,H,-1,0
+20210131,France,2,Rodez AF,Sochaux,0.25,0.78,1.1,0.33,0.33,0.34,1,1,H,0.5,0
+20210131,France,2,FC Chambly,Caen,0,0.88,0.98,0.25,0.4,0.35,4,2,A,-1,0
+20210131,France,2,Amiens SC,Chateauroux,-0.5,0.88,0.98,0.52,0.37,0.11,1,0,A,-1,0
+20210131,France,2,Guingamp,Pau,-0.5,0.88,0.98,0.54,0.14,0.32,2,3,H,-1,0
+20210131,France,2,Ajaccio,Grenoble,-0.25,1.13,0.75,0.32,0.24,0.44,2,1,A,-1,0
+20210131,Portugal,1,Tondela,Farense,0,0.87,1.03,0.44,0.27,0.29,2,0,H,1,0
+20210131,France,2,Nancy,Paris FC,0.25,0.9,0.95,0.36,0.26,0.38,1,1,H,0.5,0
+20210131,France,2,Niort,Le Havre,0,0.93,0.93,0.27,0.09,0.64,0,0,A,0,0
+20210131,France,2,Valenciennes,Dunkerque,-0.5,1.05,0.8,0.35,0.34,0.3,1,0,A,-1,0
+20210131,Netherland,1,Fortuna Sittard,VVV Venlo,-0.5,1.03,0.87,0.37,0.37,0.26,3,2,A,-1,0
+20210131,Spain,2,Mallorca,Girona FC,-0.5,1,0.85,0.6,0.2,0.2,1,0,H,1,0
+20210131,Italy,1,Internazionale,Benevento,-2,0.92,1.01,0.78,0.09,0.13,4,0,A,-1,0
+20210131,Netherland,1,Vitesse,RKC Waalwijk,-1.5,1,0.9,0.75,0.14,0.11,1,1,H,-1,0
+20210131,Spain,2,Almeria,CD Castellon,-0.75,0.85,1,0.45,0.27,0.28,3,1,A,-1,0
+20210131,England,1,Southampton,Aston Villa,0.25,1.01,0.92,0.26,0.37,0.37,0,1,H,-1,0
+20210131,Spain,1,Villareal,Real Sociedad,-0.25,1.11,0.82,0.35,0.27,0.38,1,1,A,0.5,0
+20210131,Brazil,1,Palmeiras,Santos,-0.25,0.85,1,0.61,0.17,0.22,1,0,H,1,0
+20210131,Portugal,1,Portimonense,Boavista,-0.25,0.97,0.93,0.33,0.28,0.39,1,2,A,1,0
