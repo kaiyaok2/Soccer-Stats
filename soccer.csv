@@ -1944,3 +1944,102 @@
 20210227,Germany,2,Bordeaux,Metz,-0.25,1.15,0.79,0.42,0.32,0.26,1,2,H,-1,0
 20210227,England,2,AFC Bournemouth,Watford,0,0.98,0.92,0.27,0.32,0.41,1,0,A,-1,0
 20210227,England,1,Manchester City,West Ham United,-1.5,0.92,1.01,0.81,0.1,0.09,2,1,H,-1,0
+20210227,Italy,2,SPAL,Reggina,-0.25,1.05,0.8,0.46,0.29,0.25,1,4,H,-1,0
+,Italy,2,Pescara,Lecca,0.5,0.88,0.98,0.17,0.25,0.58,1,1,A,-1,0
+,Italy,2,Pordenone,Ascoli,-0.5,1.1,0.78,0.48,0.23,0.29,1,1,H,-1,0
+,Italy,2,Cremonese,Frosinone,-0.25,0.88,1.98,0.41,0.3,0.29,4,0,A,-1,0
+,Italy,2,Cosenza,Chievo,0.25,0.98,0.88,0.2,0.2,0.6,1,0,A,-1,0
+,Spain,1,Eibar,Huesca,-0.25,1,0.93,0.37,0.34,0.29,1,1,A,0.5,0
+,Turkey,1,Antalyaspor,Istanbul Basaksehir,0,0.83,1.03,0.38,0.33,0.29,0,0,H,0,0
+,Turkey,1,Rizespor,Sivasspor,0.25,0.8,1.05,0.26,0.26,0.48,0,0,A,-0.5,0
+,Netherland,2,EVV Eindhoven,Volendam,0.75,0.85,1,0.5,0.25,0.25,1,1,H,1,0
+,Italy,2,Pisa,Vicenza Virtus,-0.25,1.05,0.8,0.23,0.41,0.36,2,2,A,0.5,0
+,Russia,1,Zenit,Rostov,-1.25,0.93,0.93,0.61,0.28,0.11,2,2,A,1,0
+,France,2,Toulouse,Amiens SC,-0.5,0.28,0.98,0.46,0.31,0.23,3,0,A,-1,0
+20210228,Turkey,1,Galatasaray,BB Erzurumspor,,,,0.81,0.16,0.03,2,0,,,0
+,France,1,Dijon,PSG,,,,0.06,0.11,0.83,0,4,,,0
+,Russia,1,Lokomotiv Moscow,CSKA Moscow,,,,0.38,0.21,0.41,2,0,,,0
+,Russia,1,Sochi,Arsenal Tula,,,,0.57,0.07,0.36,4,0,,,0
+,Italy,2,Virtus Entella Primavera,Brescia,,,,0.25,0.25,0.5,1,1,,,0
+,Italy,1,Bologna,Lazio,,,,0.1,0.38,0.52,2,0,,,0
+,Spain,2,Almeria,CD Lugo,,,,0.55,0.27,0.18,4,1,,,0
+,Spain,1,Deportivo Alaves,Osasuna,,,,0.3,0.34,0.36,0,1,,,0
+,Germany,1,RB Leipzig,Borussia Monchengladbach,,,,0.62,0.17,0.21,3,2,,,0
+,England,1,Leeds United,Aston Villa,,,,0.55,0.2,0.25,0,1,,,0
+,Netherland,1,ADO Den Haag,RKC Waalwijk,,,,0.3,0.15,0.55,0,0,,,0
+,France,2,Pau,Le Havre,,,,0.3,0.2,0.5,2,0,,,0
+,France,2,Sochaux,Guingamp,,,,0.5,0.4,0.1,0,0,,,0
+,France,2,Grenoble Foot 38,Niort,,,,0.42,0.25,0.33,1,1,,,0
+,France,2,USL Dunkerque,FC Chambly,,,,0.5,0.17,0.33,1,1,,,0
+,France,2,Chateauroux,Nancy,,,,0.34,0.41,0.25,1,4,,,0
+,France,2,Caen,Paris FC,,,,0.27,0.3,0.43,0,2,,,0
+,France,2,Auxerre,Rodez AF,,,,0.43,0.23,0.34,0,1,,,0
+,France,2,Clermont,Valenciennes,,,,0.69,0.22,0.09,4,0,,,0
+,Portugal,1,Santa Clara,Pacos de Ferreira,,,,0.36,0.4,0.24,3,0,,,0
+,Netherland,1,Vitesse,VVV Venlo,,,,0.69,0.17,0.14,4,1,,,0
+,Spain,2,CD Castellon,Las Palmas,,,,0.43,0.21,0.36,4,0,,,0
+,Italy,1,Hellas Verona,Juventus,,,,0.27,0.18,0.55,1,1,,,0
+,Spain,2,UD Logrones,Mallorca,,,,0.2,0.23,0.57,0,1,,,0
+,Netherland,1,AVC Heracles,FC Twente,,,,0.38,0.31,0.31,2,2,,,0
+,Spain,1,Getafe,Valencia,,,,0.44,0.33,0.23,3,0,,,0
+,England,1,Newcastle United,Wolverhampton Wanderers,,,,0.25,0.06,0.69,1,1,,,0
+,Portugal,1,Porto,Sporting CP,,,,0.44,0.31,0.25,0,0,,,0
+,Japan,1,Avispa Fukuoka,Nagoya Grampus,,,,0.22,0.27,0.51,1,2,,,0
+,Korea,1,Pohang Steelers,Incheon United,,,,0.54,0.28,0.18,2,1,,,0
+,Japan,2,Machida Zelvia,Montedio Yamagata,,,,0.27,0.37,0.36,1,1,,,0
+,Japan,2,Tochigi SC,Fagiano Okayama,,,,0.38,0.34,0.28,0,2,,,0
+,Australia,1,Sydney,Macarthur FC,,,,0.43,0.27,0.3,0,1,,,0
+,Japan,2,Tokyo Verdy,Ehime FC,,,,0.56,0.39,0.05,3,0,,,0
+,Japan,2,FC Ryukyu,Jubilo Iwata,,,,0.27,0.27,0.46,1,0,,,0
+,Japan,2,Renofa Yamaguchi,Matsumoto Yamaga,,,,0.25,0.29,0.46,0,0,,,0
+,Australia,1,Newcastle Jets,Wellington Phoenix,,,,0.53,0.28,0.19,0,2,,,0
+,Korea,1,Suwon Bluewings,Gwangju,,,,0.42,0.29,0.29,1,0,,,0
+,Russia,1,Spartak Moscow,Rubin Kazan,,,,0.6,0.28,0.12,0,2,,,0
+,Netherland,2,Almere City,Cambuur,,,,0.33,0.11,0.56,0,2,,,0
+,Netherland,1,Sparta Rotterdam,Willem II Tilburg,,,,0.56,0.22,0.22,0,2,,,0
+,Italy,1,Sampdoria,Atalanta,,,,0.08,0.08,0.84,0,2,,,0
+,England,1,Wycombe Wanderers,Norwich City,,,,0.18,0,0.82,0,2,,,0
+,France,1,Monaco,Brest,,,,0.71,0.17,0.12,2,0,,,0
+,England,1,Crystal Palace,Fulham,,,,0.29,0.35,0.36,0,0,,,0
+,England,1,Leicester City,Arsenal,,,,0.31,0.28,0.41,1,3,,,0
+,Germany,2,SV Sandhausen,Osasuna,,,,0.44,0.26,0.3,3,0,,,0
+,Germany,2,Nurnberg,Eintracht Braunschweig,,,,0.49,0.22,0.29,0,0,,,0
+,Germany,2,FC Heidenheim 1846,Fortuna Dusseldorf,,,,0.43,0.26,0.31,3,2,,,0
+,Germany,1,Union Berlin,Hoffenheim,,,,0.34,0.34,0.32,1,1,,,0
+,Spain,2,Fuenlabrada,Girona FC,,,,0.47,0.33,0.2,1,1,,,0
+,Turkey,1,Goztepe,Kasimpasa,,,,0.38,0.38,0.24,1,0,,,0
+,Spain,1,Celta Vigo,Real Valladolid,,,,0.48,0.2,0.32,1,1,,,0
+,Netherland,1,Groningen,Fortuna Sittard,,,,0.57,0.21,0.22,1,0,,,0
+,Netherland,1,PSV,Ajax,,,,0.1,0.3,0.6,1,1,,,0
+,Russia,1,Akhmat Grozny,Dinamo Moscow,,,,0.4,0.24,0.36,1,2,,,0
+,Italy,1,Internazionale,Genoa,,,,0.83,0.17,0,3,0,,,0
+,Italy,1,Udinese,Fiorentina,,,,0.4,0.33,0.27,1,0,,,0
+,Italy,1,Crotone,Cagliari,,,,0.25,0.31,0.44,0,2,,,0
+,France,1,Nimes,Nantes,,,,0.3,0.2,0.5,1,1,,,0
+,France,1,Reims,Montpellier,,,,0.3,0.3,0.4,0,0,,,0
+,France,1,Lorient,Saint-Etienne,,,,0.31,0.29,0.4,2,1,,,0
+,France,1,Angers SCO,Lens,,,,0.36,0.33,0.31,2,2,,,0
+,England,1,Tottenham Hotspur,Burnley,,,,0.75,0.2,0.05,4,0,,,0
+,Germany,1,Mainz 05,Augsburg,,,,0.38,0.36,0.26,0,1,,,0
+,Spain,2,Sporting Gijon,Espanyol,,,,0.29,0,0.71,1,1,,,0
+,Portugal,1,Portimonense,Maritimo,,,,0.48,0.35,0.17,0,0,,,0
+,Spain,1,Cadiz,Real Betis,,,,0.24,0.19,0.57,0,1,,,0
+,Netherland,1,AZ,Feyenoord,,,,0.55,0.24,0.21,4,2,,,0
+20210301,Turkey,1,Trabzonspor,Fenerbahce,,,,0.35,0.33,0.32,0,1,,,0
+,France,1,Lille,Strasbourg,,,,0.56,0.29,0.15,1,1,,,0
+,Russia,1,FK Krasnodar,Ural,,,,0.6,0.28,0.12,2,2,,,0
+,England,1,Chelsea,Manchester United,,,,0.41,0.23,0.36,0,0,,,0
+,Italy,1,Napoli,Benevento,,,,0.66,0.23,0.11,2,0,,,0
+,Germany,1,Bayer Leverkusen,Freiburg,,,,0.6,0.2,0.2,1,2,,,0
+,Spain,2,Tenerife,Alcorcon,,,,0.5,0.25,0.25,3,1,,,0
+,Portugal,1,Tondela,Gil Vicente,,,,0.3,0.3,0.4,1,0,,,0
+,Spain,1,Granada,Elche,,,,0.43,0.31,0.26,2,1,,,0
+,England,1,Sheffield United,Liverpool,,,,0.13,0.23,0.64,0,2,,,0
+,Italy,1,Roma,Milan,,,,0.45,0.21,0.34,1,2,,,0
+,Spain,2,Real Oviedo,Real Zaragoza,,,,0.45,0.32,0.23,1,0,,,0
+,Portugal,1,Nacional,Sporting Braga,,,,0.29,0.07,0.64,1,2,,,0
+,Spain,1,Villareal,Atletico Madrid,,,,0.27,0.27,0.46,0,2,,,0
+,France,1,Olympique Marseille,Olympique Lyonnais,,,,0.17,0.17,0.66,1,1,,,0
+,Brazil,CUP,Gremio,Palmeiras,,,,0.4,0.4,0.2,0,1,,,0
+,PIGGY,1,FEIQIANYANG,KAIYAOKE,,,,1,0,0,10,0,,,0
+,PIGGY,1,FEIQIANYANG,KAIYAOKE,,,,1,0,0,100,0,,,0
