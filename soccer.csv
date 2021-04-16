@@ -2996,3 +2996,326 @@
 20210404,Portugal,1,Porto,Santa Clara,-1.5,1.01,0.89,0.81,0.15,0.04,2,1,H,-1,0
 20210404,Spain,Cup(Copa del Rey),Athletic Club,Real Sociedad,0,0.8,1.05,0.36,0.36,0.28,0,1,A,1,0
 20210404,Japan,2,Fagiano Okayama,Jubilo Iwata,0.25,1.03,0.83,0.43,0.43,0.14,0,1,H,-1,0
+20210404,Japan,2,SC Sagamihara,Albirex Niigata,1,1,0.85,0.14,0.17,0.69,2,2,A,-1,0
+20210404,Japan,2,Renofa Yamaguchi,Tochigi SC,0,1,0.85,0.31,0.28,0.41,0,1,A,1,0
+20210404,Japan,2,Matsumoto Yamaga,Blaublitz Akita,-0.25,1.05,0.8,0.08,0.62,0.3,3,1,A,-1,0
+20210404,Japan,2,Machida Zelvia,Zweigen Kanazawa,0,1.1,0.78,0.41,0.31,0.28,0,1,H,-1,0
+20210404,Japan,2,Kyoto Sanga,JEF United,-0.5,0.8,1.05,0.61,0.18,0.21,2,1,H,1,0
+20210404,Japan,1,Shimizu S-Pulse,Tokushima Vortis,-0.25,0.95,0.9,0.46,0.27,0.27,0,3,H,-1,0
+20210404,Korea,1,Suwon,Jeju United,0.25,0.75,1.05,0.28,0.28,0.44,2,1,A,-1,0
+20210404,Japan,2,Ehime FC,Thespakusatsu Gunma,0,1.05,0.8,0.3,0.2,0.5,1,2,A,1,0
+20210404,Japan,2,Tokyo Verdy,Mito Hollyhock,0,0.88,0.98,0.6,0.2,0.2,2,1,H,1,0
+20210404,Korea,1,Gwangju,Incheon United,-0.25,1.08,0.73,0.33,0.5,0.17,2,1,A,-1,0
+20210404,Australia,1,Melbourne Victory,Sydney,1,0.84,1.06,0.42,0.33,0.25,0,3,H,-1,0
+20210404,Netherland,1,Feyenoord,Fortuna Sittard,-1.25,0.99,0.91,0.58,0.17,0.25,2,0,A,-1,0
+20210404,Turkey,1,BB Erzurumspor,Konyaspor,-0.25,0.98,0.88,0.31,0.42,0.27,1,2,A,1,0
+20210404,Russia,1,Ural,Arsenal Tula,0,0.83,1.03,0.5,0.14,0.36,2,0,H,1,0
+20210404,France,1,Angers SCO,Montpellier,0,1.01,0.92,0.41,0.31,0.28,1,1,H,0,0
+20210404,England,1,Southampton,Burnley,-0.5,1.02,0.91,0.53,0.22,0.25,3,2,H,1,0
+20210404,Germany,2,Nurnberg,Paderborn,0,0.9,0.95,0.4,0.27,0.33,2,1,H,1,0
+20210404,Germany,2,Jahn Regensburg,Erzgebirge Aue,-0.25,0.93,0.93,0.41,0.24,0.35,1,1,A,0.5,0
+20210404,Germany,2,Hannover 96,Hamburger SV,0.25,0.9,0.95,0.3,0.37,0.33,3,3,H,0.5,0
+20210404,Germany,2,Darmstadt,Fortuna Dusseldorf,0,0.9,0.95,0.24,0.31,0.45,1,2,A,1,0
+20210404,Germany,2,SV Sandhausen,Wurzburger Kickers,-0.5,0.95,0.9,0.38,0.3,0.32,1,0,A,-1,0
+20210404,Spain,2,Sporting Gijon,CD Mirandes,-0.75,0.98,0.88,0.57,0.29,0.14,1,2,A,1,0
+20210404,Spain,1,Deportivo Alaves,Celta Vigo,0.25,0.83,1.1,0.24,0.32,0.44,1,3,A,1,0
+20210404,Netherland,1,PSV,AVC Heracles,-1.5,1.03,0.87,0.65,0.25,0.1,3,0,A,-1,0
+20210404,Netherland,1,ADO Den Haag,Utrecht,1.75,0.95,0.95,0.1,0.18,0.72,1,4,H,-1,0
+20210404,Turkey,1,Istanbul Basaksehir,Yeni Malatyaspor,-0.75,0.98,0.88,0.48,0.28,0.24,3,1,A,-1,0
+20210404,Turkey,1,Ankaragucu,Antalyaspor,0,0.95,0.9,0.4,0.36,0.24,1,0,H,1,0
+20210404,Turkey,1,Alanyaspor,Genclerbirligi,-1,0.78,1.1,0.8,0.15,0.05,1,2,H,-1,0
+20210404,France,1,Reims,Rennes,0.25,1.03,0.9,0.27,0.13,0.6,2,2,A,-0.5,0
+20210404,France,1,Nantes,Nice,-0.25,1.06,0.87,0.41,0.26,0.33,1,2,A,1,0
+20210404,France,1,Lorient,Brest,-0.25,0.98,0.95,0.39,0.3,0.31,1,0,A,-1,0
+20210404,France,1,Bordeaux,Strasbourg,0,1.02,0.91,0.33,0.22,0.45,2,3,A,1,0
+20210404,England,1,Newcastle United,Tottenham Hotspur,0.75,0.99,0.94,0.4,0.2,0.4,2,2,H,1,0
+20210404,Russia,1,Tambov,CSKA Moscow,3,0.98,0.88,0,0.2,0.8,1,2,H,1,0
+20210404,Germany,1,Stuttgart,Werder Bremen,-0.5,0.99,0.94,0.51,0.25,0.24,1,0,H,1,0
+20210404,Spain,2,Albacete,Espanyol,1,0.83,1.03,0.15,0.19,0.66,0,3,A,1,0
+20210404,Portugal,1,Belenenses,Boavista,0,0.77,1.14,0.33,0.33,0.34,0,2,A,1,0
+20210404,Spain,1,Elche,Real Betis,0.75,0.8,1.1,0.17,0.42,0.41,1,1,H,1,0
+20210404,France,1,Nimes,Saint-Etienne,0.25,0.88,1.05,0.19,0.32,0.49,0,2,A,1,0
+20210404,England,1,Aston Villa,Fulham,0,0.84,1.09,0.52,0.29,0.19,3,1,H,1,0
+20210405,Russia,1,Rostov,Spartak Moscow,0.25,0.95,0.9,0.25,0.3,0.45,2,3,A,1,0
+20210405,Turkey,1,Kasimpasa,Besiktas,0.5,1,0.85,0.4,0.2,0.4,1,0,H,1,0
+20210405,Germany,1,Union Berlin,Hertha BSC,0,0.84,1.09,0.32,0.37,0.31,1,1,A,0,0
+20210405,Spain,2,CD Lugo,Malaga,0,0.88,0.98,0.52,0.3,0.18,0,1,H,-1,0
+20210405,Spain,2,Leganes,CE Sabadell,-0.75,0.98,0.88,0.67,0.17,0.16,2,1,H,0.5,0
+20210405,Portugal,1,Vitoria Guimaraes,Tondela,-0.75,1.06,0.84,0.59,0.19,0.22,1,2,H,-1,0
+20210405,Spain,1,Cadiz,Valencia,0.25,1.05,0.85,0.23,0.36,0.41,2,1,H,1,0
+20210405,Spain,2,Las Palmas,Mallorca,0,1.1,0.78,0.27,0.36,0.37,1,1,H,0,0
+20210405,England,1,Manchester United,Brighton & Hove Albion,-0.75,0.88,1.05,0.5,0.17,0.33,2,1,A,-0.5,0
+20210405,Portugal,1,Famalicao,Pacos de Ferreira,0,0.78,1.1,0.31,0.31,0.38,2,0,A,-1,0
+20210405,Spain,1,Sevilla,Atletico Madrid,0,0.99,0.94,0.25,0.25,0.5,1,0,A,-1,0
+20210405,France,1,Olympique Marseille,Dijon,-1,0.89,1.01,0.69,0.17,0.14,2,0,H,1,0
+20210405,Australia,1,Newcastle Jets,Western United,-0.25,1.02,0.88,0.42,0.25,0.33,0,1,A,1,0
+20210405,Australia,1,Wellington Phoenix,Melbourne City,0.75,0.91,0.99,0.25,0,0.75,2,3,A,0.5,0
+20210405,Netherland,2,NVAV NEC,Telstar,-1,0.95,0.9,0.6,0.2,0.2,1,1,A,1,0
+20210405,Italy,2,Pordenone,Virtus Entella Primavera,-0.5,0.9,0.95,0.57,0.14,0.29,3,0,H,1,0
+20210405,England,2,Middlesbrough,Watford,0.25,1.06,0.84,0.24,0.32,0.44,1,1,H,0.5,0
+20210405,Netherland,2,TOP Oss,Volendam,0.75,0.98,0.88,0.24,0.26,0.5,2,0,H,1,0
+20210405,Netherland,2,Utrecht II,De Graafschap Doetinchem,0.75,1.05,0.8,0.16,0.23,0.61,0,1,H,-0.5,0
+20210405,Netherland,2,PSV II,MVV,-0.25,0.83,1.03,0.38,0.13,0.5,3,1,A,-1,0
+20210405,Netherland,2,Dordrecht,EVV Eindhoven,0.25,0.9,0.95,0.29,0,0.71,1,5,A,1,0
+20210405,Netherland,2,Cambuur,Excelsior,-1.75,0.83,1.03,0.83,0.1,0.07,7,2,H,1,0
+20210405,Netherland,2,Helmond Sport,Ajax II,0,0.9,0.95,0.41,0.27,0.32,1,1,H,0,0
+20210405,Netherland,2,AZ II,BVV Den Bosch,-0.75,1,0.85,0.44,0.25,0.31,2,1,A,-0.5,0
+20210405,Netherland,2,NAC,DVV Go Ahead,-0.25,1.1,0.78,0.22,0.33,0.45,0,1,A,1,0
+20210405,Italy,2,Monza,Pescara,-0.75,1.03,0.83,0.68,0.24,0.08,1,1,H,-1,0
+20210405,Italy,2,Pisa,Lecce,0.5,0.88,0.98,0.4,0.2,0.4,0,1,H,-1,0
+20210405,Italy,2,Cosenza,Cremonese,0.25,0.93,0.93,0.2,0.5,0.3,0,1,H,-1,0
+20210405,Italy,2,Ascoli,Vicenza Virtus,0,0.93,0.93,0.22,0.11,0.67,2,1,A,-1,0
+20210405,Italy,2,Cittadella,Reggina,-0.25,0.9,0.95,0.52,0.21,0.27,1,1,H,-0.5,0
+20210405,England,2,Coventry City,Bristol City,-0.25,0.84,1.06,0.45,0.31,0.24,3,1,H,1,0
+20210405,England,2,Luton Town,Barnsley,0.25,1.06,0.84,0.26,0.29,0.45,1,2,H,-1,0
+20210405,England,2,Swansea City,Preston North End,-0.5,0.91,0.99,0.4,0.39,0.21,0,1,A,1,0
+20210405,England,2,Reading,Derby County,-0.25,0.83,1.07,0.45,0.29,0.26,3,1,A,-1,0
+20210405,England,2,Stoke City,Millwall,-0.25,0.83,1.07,0.35,0.35,0.3,1,2,A,1,0
+20210405,England,2,Rotherham United,Wycombe Wanderers,-0.75,0.95,0.95,0.48,0.25,0.27,0,3,A,1,0
+20210405,England,2,Nottingham Forest,QPR,0,0.88,1.02,0.38,0.3,0.32,3,1,H,1,0
+20210405,England,2,Blackburn Rovers,AFC Bournemouth,0.25,0.9,1,0.22,0.31,0.47,0,2,A,1,0
+20210405,Italy,2,Reggiana,Brescia,0.25,0.8,1.05,0.38,0.25,0.37,2,2,H,0.5,0
+20210406,England,2,Sheffield Wednesday,Cardiff City,0,1,0.9,0.22,0.25,0.53,5,0,A,-1,0
+20210406,England,1,Everton,Crystal Palace,-0.5,0.9,1.03,0.5,0.33,0.17,1,1,A,1,0
+20210406,Spain,2,FC Cartagena,Alcorcon,0,0.83,1.03,0.38,0.25,0.37,2,1,A,-1,0
+20210406,Portugal,1,Farense,Sporting Braga,0.75,0.84,1.06,0.17,0.35,0.48,1,2,H,-0.5,0
+20210406,Germany,2,St. Pauli,Eintracht Braunschweig,-0.75,1.03,0.83,0.53,0.24,0.23,2,0,A,-1,0
+20210406,Spain,2,Fuenlabrada,Real Zaragoza,-0.25,0.93,0.93,0.22,0.28,0.5,0,1,A,1,0
+20210406,Spain,1,Barcelona,Real Valladolid,-2.25,0.92,1.01,0.8,0.2,0,1,0,A,1,1
+20210406,England,1,Wolverhampton Wanderers,West Ham United,0,1.05,0.88,0.38,0.19,0.43,2,3,H,-1,0
+20210406,Portugal,1,Moreirense,Sporting CP,1.25,0.93,0.97,0.1,0.13,0.77,1,1,A,-1,0
+20210406,Japan,1,Yokohama F. Marinos,Cerezo Osaka,-0.75,0.9,0.95,0.58,0.25,0.17,1,0,H,0.5,0
+20210407,Turkey,1,Trabzonspor,Kayserispor,-0.75,0.85,1,0.57,0.28,0.15,1,1,A,1,0
+20210407,Germany,2,Heidenheim,Holstein Kiel,0,0.88,0.98,0.38,0.26,0.36,1,0,A,-1,0
+20210407,England,2,Brentford,Birmingham City,-0.75,0.85,1.05,0.6,0.28,0.12,0,0,A,1,0
+20210407,England,2,Norwich City,Huddersfield Town,-1.25,0.97,0.93,0.64,0.27,0.09,7,0,A,-1,0
+20210407,Europe,Cup(UCL),Real Madrid,Liverpool,0,0.87,1.03,0.6,0.2,0.2,3,1,H,1,0
+20210407,Europe,Cup(UCL),Manchester City,Borussia Dortmund,-1.5,1,0.9,0.83,0.17,0,2,1,H,-1,0
+20210407,Australia,1,Sydney,Perth Glory,-1,0.82,1.08,0.66,0.2,0.14,1,0,H,0,0
+20210407,Japan,1,Gamba Osaka,Avispa Fukuoka,-0.75,1.03,0.83,0.57,0.24,0.19,0,0,H,-1,0
+20210407,Japan,1,Vissel Kobe,Oita Trinita,-0.5,0.88,0.98,0.64,0.14,0.22,1,0,H,1,0
+20210407,Japan,1,Kawasaki Frontale,Sagan Tosu,-1.25,0.83,1.03,0.89,0.11,0,1,0,H,-0.5,0
+20210407,Japan,1,Yokohama,Sanfrecce Hiroshima,0.75,0.95,0.9,0.07,0.4,0.53,0,3,H,-1,0
+20210407,Japan,1,Shonan Bellmare,Nagoya Grampus,0.5,0.78,1.1,0.16,0.27,0.57,0,0,A,-1,0
+20210407,Japan,1,Tokushima Vortis,Vegalta Sendai,-0.5,0.83,1.03,0.45,0.28,0.27,1,0,A,-1,0
+20210407,Korea,1,Ulsan,Seoul,-0.75,0.88,0.93,0.43,0.43,0.14,3,2,A,-0.5,0
+20210407,Japan,1,Kashima Antlers,Kashiwa Reysol,-0.5,0.85,1,0.6,0.13,0.27,2,1,H,1,0
+20210407,Japan,1,Tokyo,Consadole Sapporo,0,1,0.85,0.43,0.25,0.32,2,1,H,1,0
+20210407,Japan,1,Shimizu S-Pulse,Urawa Reds,0,0.95,0.9,0,0.8,0.2,0,2,A,1,0
+20210407,Korea,1,Jeju United,Gangwon,-0.25,0.88,0.93,0,0.5,0.5,1,1,A,0.5,0
+20210407,Korea,1,Incheon United,Suwon Bluewings,0.25,0.98,0.83,0.26,0.29,0.45,0,0,A,-0.5,0
+20210407,Korea,1,Gwangju,Suwon,0,1.03,0.78,0.39,0.3,0.31,2,0,H,1,0
+20210407,Turkey,1,Genclerbirligi,BB Erzurumspor,0,0.9,0.95,0.31,0.29,0.4,1,1,A,0,0
+20210407,Turkey,1,Konyaspor,Ankaragucu,-0.25,0.88,0.98,0.45,0.32,0.23,1,1,H,-0.5,0
+20210408,Turkey,1,Antalyaspor,Sivasspor,0,0.98,0.88,0.33,0.29,0.38,2,4,A,1,0
+20210408,Turkey,1,Besiktas,Alanyaspor,-0.75,0.93,0.93,0.56,0.16,0.28,3,0,A,-1,0
+20210408,Italy,1,Internazionale,US Sassuolo,-1.5,0.86,1.07,0.77,0.15,0.08,2,1,H,-1,0
+20210408,Italy,1,Juventus,Napoli,-0.5,0.99,0.94,0.56,0.22,0.22,2,1,H,1,0
+20210408,Europe,Cup(UCL),Bayern Munich,PSG,-0.5,1.03,0.87,0.22,0.33,0.45,2,3,A,1,0
+20210408,Europe,Cup(UCL),Porto,Chelsea,0.75,0.88,1.02,0.15,0.28,0.57,0,2,A,1,0
+20210408,Spain,1,Real Sociedad,Athletic Club,-0.25,1.19,0.76,0.47,0.3,0.23,1,1,H,-0.5,0
+20210408,Turkey,1,Gaziantep FK,Istanbul Basaksehir,0,1.1,0.78,0.23,0.23,0.54,2,0,A,-1,0
+20210408,Turkey,1,Denizlispor,Kasimpasa,0.25,0.9,0.95,0.31,0.28,0.41,1,1,H,0.5,0
+20210409,Turkey,1,Yeni Malatyaspor,Fenerbahce,0.75,0.85,1,0.21,0.31,0.48,1,1,H,1,0
+20210409,Germany,2,Hannover 96,Wurzburger Kickers,-1,0.8,1.05,0.58,0.24,0.18,1,2,A,1,0
+20210409,Europe,Cup(Europa League),Ajax,Roma,-0.5,1,0.9,0.42,0.17,0.41,1,2,A,1,0
+20210409,Europe,Cup(Europa League),Dinamo Zagreb,Villareal,0.5,0.98,0.92,0.3,0.2,0.5,0,1,H,-1,0
+20210409,Europe,Cup(Europa League),Arsenal,Slavia Praha,-1,0.87,1.03,0.8,0.07,0.13,1,1,H,-1,0
+20210409,Europe,Cup(Europa League),Granada,Manchester United,1,0.85,1.05,0,0.2,0.8,0,2,A,1,0
+20210409,Australia,1,Macarthur FC,Brisbane Roar,-0.25,1.02,0.88,0.36,0.18,0.46,1,2,A,1,0
+20210410,Netherland,2,NAC,Utrecht II,-1,0.83,1.03,0.57,0.21,0.22,3,1,A,-1,0
+20210410,Germany,2,Hamburger SV,Darmstadt,-0.75,0.93,0.93,0.54,0.26,0.2,1,2,A,1,0
+20210410,Netherland,2,Ajax II,TOP Oss,-0.75,1.03,0.83,0.75,0,0.25,0,1,H,-1,0
+20210410,Netherland,2,BVV Den Bosch,Cambuur,2,0.9,0.95,0.04,0.12,0.84,3,5,A,0,0
+20210410,Netherland,2,Excelsior,NVAV NEC,0.5,0.95,0.9,0.1,0.2,0.7,2,1,A,-1,0
+20210410,Netherland,2,EVV Eindhoven,PSV II,0,1.05,0.8,0.5,0,0.5,0,2,H,-1,0
+20210410,Netherland,2,Volendam,Helmond Sport,-1,0.8,1.05,0.65,0.17,0.18,5,1,H,1,0
+20210410,Netherland,1,Vitesse,ADO Den Haag,-1.75,0.97,0.93,0.88,0,0.12,0,0,H,-1,0
+20210410,Germany,1,Arminia Bielefeld,Freiburg,0,0.9,1,0.21,0.34,0.45,1,0,A,-1,0
+20210410,England,2,Watford,Reading,-0.75,1.02,0.88,0.59,0.31,0.1,2,0,H,1,0
+20210410,Spain,2,Tenerife,Sporting Gijon,-0.25,1.15,0.73,0.33,0.44,0.23,1,0,A,-1,0
+20210410,Portugal,1,Portimonense,Vitoria Guimaraes,0,0.89,1.01,0.34,0.32,0.34,3,0,A,-1,0
+20210410,France,1,Metz,Lille,0.75,1,0.93,0.2,0.8,0,0,2,H,-1,0
+20210410,Spain,1,Huesca,Elche,-0.25,0.87,1.06,0.42,0.33,0.25,3,1,A,-1,0
+20210410,England,1,Fulham,Wolverhampton Wanderers,0,0.86,1.07,0.12,0.5,0.38,0,1,A,1,0
+20210410,Japan,2,Blaublitz Akita,Omiya Ardija,0.25,0.78,1.1,0.31,0.29,0.4,0,0,A,-0.5,0
+20210410,Japan,1,Sanfrecce Hiroshima,Shonan Bellmare,-0.5,0.93,0.93,0.62,0.25,0.13,0,1,H,-1,0
+20210410,Japan,2,Ventforet Kofu,Giravanz Kitakyushu,-0.5,0.95,0.9,0.36,0.27,0.37,1,1,A,1,0
+20210410,Korea,1,Gangwon,Daegu,0,0.73,1.08,0.44,0.25,0.31,3,0,A,-1,0
+20210410,Japan,1,Jubilo Iwata,Matsumoto Yamaga,-0.5,1.03,0.83,0.52,0.28,0.2,4,1,H,1,0
+20210410,Australia,1,Newcastle Jets,Melbourne Victory,-0.75,0.95,0.95,0.61,0.22,0.17,1,2,H,-1,0
+20210410,Japan,1,Cerezo Osaka,Avispa Fukuoka,-0.5,0.89,1.03,0.52,0.22,0.26,2,2,A,1,0
+20210410,Korea,2,Seoul E-Land,Chungnam Asan,-0.75,1.03,0.78,0.83,0.17,0,0,1,H,-1,0
+20210410,Japan,2,Tokyo Verdy,Renofa Yamaguchi,-0.25,1,0.85,0.45,0.25,0.3,3,1,H,1,0
+20210410,Korea,1,Seoul,Pohang Steelers,0.25,0.9,0.9,0.25,0.21,0.54,1,2,A,1,0
+20210410,Australia,1,Adelaide United,Western Sydney Wanderers,-0.25,0.95,0.95,0.47,0.16,0.37,1,1,H,-0.5,0
+20210410,Korea,2,Gimcheon Sangmu FC,Bucheon 1995,-0.75,0.85,0.95,0.6,0.24,0.16,1,0,H,0.5,0
+20210410,Turkey,1,Hatayspor,Goztepe,-0.5,0.93,0.93,0.32,0.24,0.44,2,3,A,1,0
+20210410,Russia,1,Khimki,Tambov,-2,0.98,0.88,0.9,0.05,0.05,1,0,H,-1,0
+20210410,Germany,2,Paderborn,Bochum,0.25,0.95,0.9,0.27,0.23,0.5,3,0,A,-1,0
+20210410,Germany,2,Erzgebirge Aue,St. Pauli,0.25,0.95,0.9,0.36,0.31,0.33,1,3,H,-1,0
+20210410,England,2,Millwall,Swansea City,0.25,0.81,1.09,0.4,0.3,0.3,0,3,H,-1,0
+20210410,England,1,Manchester City,Leeds United,-1.25,0.89,1.04,0.5,0.5,0,1,2,A,1,0
+20210410,Italy,2,Virtus Entella Primavera,Salernitana,0.25,1.1,0.78,0.26,0.16,0.58,0,3,A,1,0
+20210410,Italy,2,Lecce,SPAL,-0.5,0.78,1.1,0.56,0.22,0.22,1,2,A,1,0
+20210410,Italy,2,Cremonese,Pordenone,-0.5,1,0.85,0.45,0.29,0.26,2,1,A,-1,0
+20210410,Ity,2,Brescia,Pescara,-0.25,0.85,1,0.5,0.26,0.24,1,1,H,-0.5,0
+20210410,Italy,2,Ascoli,Monza,0.25,0.83,1.03,0.34,0.31,0.35,1,0,H,1,0
+20210410,Spain,2,SD Ponferradina,Fuenlabrada,0,0.95,0.9,0.29,0.34,0.37,0,0,A,0,0
+20210410,Spain,1,Getafe,Cadiz,-0.5,0.89,1.04,0.47,0.31,0.22,0,1,A,1,0
+20210410,France,2,Paris FC,Troyes,0,0.93,0.93,0.33,0.29,0.38,1,1,A,0,0
+20210410,Italy,1,Spezia,Crotone,-0.5,0.89,1.04,0.58,0.23,0.19,3,2,H,1,0
+20210410,Turkey,1,Rizespor,Trabzonspor,0.25,0.88,0.98,0.19,0.28,0.53,0,0,A,-0.5,0
+20210410,Sweden,1,Malmo FF,Hammarby,-1,1.07,0.83,0.51,0.27,0.22,3,2,A,0,0
+20210410,Russia,1,Ufa,Akhmat Grozny,0.25,0.78,1.1,0.5,0,0.5,3,0,A,-1,0
+20210410,Germany,1,Hertha BSC,Borussia Monchengladbach,0.25,0.95,0.98,0.3,0.32,0.38,2,2,H,0.5,0
+20210410,Germany,1,Eintracht Frankfurt,Wolfsburg,0,0.88,1.05,0.4,0.27,0.33,4,3,H,1,0
+20210410,Germany,1,Werder Bremen,RB Leipzig,1.5,0.87,1.06,0,0.4,0.6,1,4,H,-1,0
+20210410,Germany,1,Bayern Munich,Union Berlin,-0.5,0.84,1.06,0.5,0.29,0.21,1,1,A,1,0
+20210410,Italy,2,Frosinone,Cittadella,0,0.78,1.1,0.34,0.42,0.24,1,1,H,0,0
+20210410,Spain,2,Real Oviedo,Las Palmas,-0.5,0.8,1.05,0.25,0.5,0.25,0,0,A,1,0
+20210410,Portugal,1,Maritimo,Farense,0.25,0.8,1.1,0.22,0.3,0.48,1,0,A,-1,0
+20210410,England,2,Wycombe Wanderers,Luton Town,0.25,1.03,0.87,0.18,0.3,0.52,1,3,A,1,0
+20210410,England,2,Bristol City,Nottingham Forest,0.25,1.01,0.89,0.3,0.35,0.35,0,0,H,0.5,0
+20210410,England,2,Derby County,Norwich City,1,0.86,1.04,0.23,0.32,0.45,0,1,H,0,0
+20210410,England,2,Birmingham City,Stoke City,0,0.94,0.96,0.29,0.29,0.42,2,0,A,-1,0
+20210410,England,2,Barnsley,Middlesbrough,-0.5,1.03,0.87,0.39,0.27,0.34,2,0,A,-1,0
+20210410,England,2,Preston North End,Brentford,0.5,1,0.9,0.22,0.19,0.59,0,5,A,1,0
+20210410,England,2,Cardiff City,Blackburn Rovers,0,0.84,1.06,0.46,0.18,0.36,2,2,H,0,0
+20210410,England,2,AFC Bournemouth,Coventry City,-0.75,0.81,1.09,0.46,0.3,0.24,4,1,A,-1,0
+20210410,England,2,Huddersfield Town,Rotherham United,0,0.8,1.1,0.36,0.3,0.34,0,0,A,0,0
+20210410,England,2,QPR,Sheffield Wednesday,-0.25,0.97,0.93,0.38,0.22,0.4,4,1,A,-1,0
+20210410,Scotland,1,St. Johnstone,Aberdeen,-0.25,1.05,0.8,0.22,0.44,0.34,0,1,A,1,0
+20210410,Scotland,1,Motherwell,St. Mirren,0,1.03,0.83,0.38,0.38,0.24,1,0,H,1,0
+20210410,Scotland,1,Kilmarnock,Ross County,-0.75,1.05,0.8,0.46,0.27,0.27,2,2,A,1,0
+20210410,Scotland,1,Hamilton Academical,Dundee United,0.25,0.8,1.05,0,0.38,0.62,0,1,A,1,0
+20210410,Scotland,1,Celtic,Livingston,-1.5,1.03,0.83,0.71,0.12,0.17,6,0,A,-1,0
+20210410,England,1,Liverpool,Aston Villa,-1.25,1.07,0.86,0.67,0.17,0.16,2,1,H,-0.5,0
+20210410,Spain,1,Athletic Club,Deportivo Alaves,-0.5,1.04,0.89,0.46,0.35,0.19,0,0,A,1,0
+20210410,Portugal,1,Boavista,Rio Ave,0,1.01,0.89,0.26,0.4,0.34,3,3,A,0,0
+20210410,France,1,Strasbourg,PSG,0.75,1.01,0.92,0.09,0.36,0.55,1,4,H,-1,0
+20210410,Sweden,1,Orebro,IFK Goteborg,0.25,0.99,0.91,0.33,0.33,0.34,0,0,H,0.5,0
+20210411,Turkey,1,Galatasaray,Fatih Karagumruk,-0.75,0.93,0.93,0.67,0.2,0.13,1,1,H,-1,0
+20210411,Russia,1,Rostov,Rubin Kazan,0,1.05,0.8,0.32,0.45,0.23,0,1,H,-1,0
+20210411,Italy,1,Parma,Milan,0.75,0.93,1,0.19,0.26,0.55,1,3,H,-1,0
+20210411,Spain,2,Rayo Vallecano,Girona FC,-0.5,0.93,0.93,0.61,0.3,0.09,2,1,H,1,0
+20210411,Germany,1,Stuttgart,Borussia Dortmund,0.75,0.91,1.02,0.29,0.43,0.28,2,3,H,-0.5,0
+20210411,Spain,1,Elbar,Levante,-0.25,1.09,0.84,0.47,0.21,0.32,0,1,H,-1,0
+20210411,England,1,Crystal Palace,Chelsea,1,1.06,0.84,0,0.6,0.4,1,4,H,-1,0
+20210411,Netherland,1,AVC Heracles,Williem II Tilburg,-0.25,0.9,1,0.46,0.25,0.29,4,0,H,1,0
+20210411,Portugal,1,Tondela,Porto,1.5,0.9,1,0.12,0.16,0.72,0,2,H,-1,0
+20210411,France,2,Pau,Clermont,1,0.8,1.05,0.25,0.25,0.5,2,1,H,1,0
+20210411,France,2,Nancy,Sochaux,0.25,0.78,1.1,0.07,0.33,0.6,0,0,A,0,0
+20210411,France,2,Le Havre,Ajaccio,0,0.78,1.1,0.57,0.14,0.29,1,1,H,0,0
+20210411,France,2,Grenoble,Caen,-0.5,1.03,0.83,0.53,0.2,0.27,3,1,H,1,0
+20210411,France,2,Chateauroux,Dunkerque,-0.25,0.85,1,0.59,0.12,0.29,1,2,H,-1,0
+20210411,France,2,Niort,Auxerre,0.5,0.8,1.05,0.32,0.42,0.26,0,4,H,-1,0
+20210411,France,2,Valenciennes,FC Chambly,0,0.78,1.1,0.5,0.3,0.2,2,1,H,1,0
+20210411,Netherland,1,AZ,Sparta Rotterdam,-1.25,1.07,0.83,0.72,0.17,0.11,2,0,H,1,0
+20210411,Netherland,1,Fortuna Sittard,Emmen,-0.25,1.05,0.85,0.39,0.25,0.36,1,3,A,1,0
+20210411,Italy,1,Udinese,Torino,-0.25,0.98,0.92,0.36,0.25,0.39,0,1,A,1,0
+20210411,Netherland,1,PEC Zwolle,FC Twente,0.25,0.81,1.09,0.29,0.17,0.54,1,0,A,-1,0
+20210411,France,1,Montpellier,Olympique Marseille,0,0.87,1.06,0.41,0.28,0.31,3,3,H,0,0
+20210411,Spain,1,Real Madrid,Barcelona,0.25,0.81,1.09,0.1,0.2,0.7,2,1,A,-1,0
+20210411,Portugal,1,Pacos de Ferreira,Benfica,1.25,0.83,1.07,0.17,0.33,0.5,0,5,H,-1,0
+20210411,Japan,1,Consadole Sapporo,Kashima Antlers,0,0.93,0.93,0.46,0.31,0.23,2,2,H,0,0
+20210411,Korea,2,Ansan Greeners,Jeonnam Dragons,0.25,1,0.8,0.22,0.28,0.5,0,1,A,1,0
+20210411,Japan,1,Tokyo,Kawasaki Frontale,0.75,0.93,0.93,0.17,0.17,0.66,2,4,A,1,0
+20210411,Japan,1,Vegalta Sendai,Yokohama F. Marinos,1,0.9,0.95,0,0,1,0,0,A,0,0
+20210411,Japan,2,Zweigen Kanazawa,JEF United,-0.5,1.05,0.8,0.47,0.27,0.26,0,1,H,-1,0
+20210411,Japan,2,Montedio Yamagata,Albirex Niigata,0,1,0.85,0.38,0.29,0.33,0,2,H,-1,0
+20210411,Japan,2,Machida Zelvia,Kyoto Sanga,0.25,0.85,1,0.33,0.33,0.34,0,1,H,-1,0
+20210411,Japan,2,Tochigi SC,SC Sagamihara,-0.5,0.93,0.93,0.53,0.3,0.17,0,0,H,-1,0
+20210411,Japan,1,Sagan Tosu,Yokohama,-0.75,0.9,0.95,0.65,0.26,0.09,3,0,H,1,0
+20210411,Japan,1,Oita Trinita,Nagoya Grampus,0.5,0.8,1.05,0.17,0.24,0.59,0,3,A,1,0
+20210411,Korea,2,Anyang,Busan IPark,-0.25,0.85,0.95,0.37,0.32,0.31,2,1,A,-1,0
+20210411,Korea,1,Jeju United,Suwon Bluewings,-0.25,0.98,0.83,0.42,0.33,0.25,2,1,H,1,0
+20210411,Japan,1,Urawa Reds,Tokushima Vortis,-0.25,0.9,0.95,0.71,0.14,0.15,1,0,H,1,0
+20210411,Japan,2,Ehime FC,Fagiano Okayama,0.5,0.93,0.93,0.31,0.23,0.46,2,2,H,1,0
+20210411,Korea,1,Suwon,Ulsan,0.5,0.93,0.88,0,0,1,0,1,A,1,0
+20210411,Japan,1,Kashiwa Reysol,Gamba Osaka,-0.25,1.03,0.83,0.32,0.27,0.41,1,0,A,-1,0
+20210411,Japan,1,Vissel Kobe,Shimizu S-Pulse,-0.5,0.95,0.9,0.48,0.16,0.36,1,1,A,1,0
+20210411,Australia,1,Wellington Phoenix,Western United,-0.25,1.05,0.85,0.45,0.26,0.29,3,2,H,1,0
+20210411,Korea,2,Daejeon Hana Citizen,Gyeongnam,-0.25,1,0.8,0.41,0.31,0.28,2,1,H,1,0
+20210411,Korea,1,Jeonbuk Motors,Incheon United,-1.25,1,0.85,0.67,0.21,0.12,5,0,A,-1,0
+20210411,Netherland,2,De Graafschap Doetinchem,DVV Go Ahead,-0.25,1,0.85,0.5,0.19,0.31,1,0,H,1,0
+20210411,Netherland,1,Utrecht,Feyenoord,-0.25,0.86,1.04,0.52,0.24,0.24,1,2,H,-1,0
+20210411,Turkey,1,Sivasspor,Konyaspor,-0.25,0.83,1.03,0.5,0.25,0.25,3,1,H,1,0
+20210411,Italy,1,Internazionale,Cagliari,-1.5,0.92,1.01,0.88,0,0.12,1,0,H,-1,0
+20210411,Russia,1,Arsenal Tula,FK Krasnodar,0.5,0.98,0.88,0.19,0.24,0.57,1,0,A,-1,0
+20210411,France,1,Rennes,Nantes,-0.5,0.97,0.96,0.35,0.3,0.35,1,0,A,-1,0
+20210411,England,1,Burnley,Newcastle United,-0.25,0.97,0.96,0.37,0.32,0.31,1,2,A,1,0
+20210411,Germany,2,Osnabruck,Eintracht Braunschweig,-0.25,1,0.85,0.35,0.29,0.36,0,4,A,1,0
+20210411,Germany,2,Wurzburger Kickers,Nurnberg,0.5,0.9,0.95,0.23,0.2,0.57,1,1,A,-1,0
+20210411,Germany,2,Hannover 96,Heidenheim,-0.25,1.03,0.83,0.35,0.3,0.35,1,3,A,1,0
+20210411,Spain,2,Malaga,Albacete,-0.25,0.88,0.98,0.8,0,0.2,2,0,H,1,0
+20210411,Spain,1,Villareal,Osasuna,-0.75,1.03,0.9,0.55,0.21,0.24,1,2,A,1,0
+20210411,Netherland,1,VVV Venlo,PSV,2,0.88,1.02,0.15,0.15,0.7,0,2,H,0,0
+20210411,Netherland,1,Groningen,VV Heerenveen,-0.25,1.01,0.89,0.7,0.1,0.2,0,2,H,-1,0
+20210411,Italy,2,Reggiana,Vicenza Virtus,-0.25,0.95,0.9,0.6,0,0.4,3,0,H,1,0
+20210411,Turkey,1,Kayserispor,Antalyaspor,-0.25,0.83,1.03,0.52,0.23,0.25,0,1,H,-1,0
+20210411,Turkey,1,Ankaragucu,Genclerbirligi,-0.25,0.88,0.98,0.45,0.29,0.26,2,1,H,1,0
+20210411,Italy,1,Juventus,Genoa,-1.75,0.93,1,0.86,0.07,0.07,3,1,H,0.5,0
+20210411,Italy,1,Hellas Verona,Lazio,0.25,1.07,0.86,0.23,0.32,0.45,0,1,A,1,0
+20210411,Italy,1,Sampdoria,Napoli,1,0.88,1.05,0.21,0.14,0.65,0,2,A,1,0
+20210411,France,1,Brest,Nimes,-0.5,0.98,0.95,0.4,0.3,0.3,1,1,A,1,0
+20210411,France,1,Saint-Etienne,Bordeaux,-0.25,0.9,1.03,0.38,0.29,0.33,4,1,A,-1,0
+20210411,France,1,Lens,Lorient,-0.25,0.97,0.96,0.4,0.27,0.33,4,1,A,-1,0
+20210411,France,1,Nice,Reims,-0.25,0.86,1.07,0.44,0.31,0.25,0,0,A,0.5,0
+20210411,Sweden,1,Mjallby,Varberg,-0.25,0.93,0.97,0.39,0.21,0.4,0,0,A,0.5,0
+20210411,Sweden,1,Halmstad,Hacken,0.25,1.01,0.89,0.31,0.27,0.42,1,0,H,1,0
+20210411,England,1,West Ham United,Leicester City,0.25,0.84,1.09,0.44,0.13,0.43,3,2,H,1,0
+20210411,Germany,1,Schalke 04,Augsburg,0,1.04,0.89,0.43,0.16,0.41,1,0,H,1,0
+20210411,Russia,1,Dinamo Moscow,Ural,-1.25,0.95,0.9,0.68,0.2,0.12,2,2,A,1,0
+20210411,Russia,1,Sochi,Zenit,1,0.78,1.1,0.17,0,0.83,1,2,A,0,0
+20210411,Spain,2,Real Zaragoza,Almeria,0.25,0.85,1,0,1,0,2,1,H,1,0
+20210411,Portugal,1,Gil Vicente,Moreirense,-0.25,0.84,1.06,0.48,0.33,0.19,1,2,H,-1,0
+20210411,Scotland,1,Rangers,Hibernian,-1,0.85,1,0.7,0.27,0.03,2,1,H,0,0
+20210411,Spain,1,Valencia,Real Sociedad,0.25,0.86,1.07,0.24,0.3,0.46,2,2,A,-0.5,0
+20210411,Portugal,1,Santa Clara,Nacional,-0.75,1.03,0.87,0.62,0.24,0.14,5,1,H,1,0
+20210411,France,1,Monaco,Dijon,-2,1.03,0.9,0.8,0.2,0,3,0,A,-1,0
+20210411,England,1,Tottenham Hotspur,Manchester United,0.25,0.83,1.07,0.43,0.17,0.4,1,3,H,-1,0
+20210411,Sweden,1,Norrkoping,Sirius,-0.75,0.87,1.03,0.64,0.21,0.15,1,1,H,-1,0
+20210411,Sweden,1,Elfsborg,Djurgarden,0.25,0.78,1.13,0.37,0.27,0.36,0,2,H,-1,0
+20210412,Russia,1,Lokomotiv Moscow,Spartak Moscow,0.25,1.07,0.85,0.3,0.3,0.4,2,0,H,1,0
+20210412,Germany,1,Koln,Mainz 05,0,1.13,0.81,0.23,0.32,0.45,2,3,A,1,0
+20210412,Italy,1,Roma,Bologna,-0.5,0.96,0.97,0.75,0.17,0.08,1,0,H,1,0
+20210412,Spain,2,CE Sabadell,FC Cartagena,-0.25,1,0.85,0.29,0.39,0.32,1,1,A,0.5,0
+20210412,Spain,2,CD Mirandes,UD Logrones,-0.5,1.05,0.8,0.6,0.33,0.07,0,1,H,-1,0
+20210412,Spain,2,Mallorca,CD Lugo,-0.75,0.85,1,0.63,0.22,0.15,2,0,H,1,0
+20210412,Portugal,1,Sporting Braga,Belenenses,-1.25,0.93,0.97,0.5,0.25,0.25,1,1,A,1,0
+20210412,Spain,1,Real Valladolid,Granada,-0.25,1.01,0.92,0.43,0.3,0.27,1,2,H,-1,0
+20210412,England,1,Sheffield United,Arsenal,0.75,1.07,0.86,0.18,0.36,0.46,0,3,H,-1,0
+20210412,Italy,1,Fiorentina,Atalanta,1,1.03,0.9,0.3,0.05,0.65,2,3,A,0,0
+20210412,France,1,Olympique Lyonnais,Angers SCO,-1.5,0.99,0.94,0.73,0.13,0.14,3,0,A,-1,0
+20210412,Portugal,1,Sporting CP,Famalicao,-1,0.96,0.94,0.54,0.38,0.08,1,1,A,1,0
+20210412,Spain,2,Espanyol,Leganes,-0.75,0.93,0.93,0.53,0.42,0.05,2,1,A,-0.5,0
+20210412,Spain,1,Real Betis,Atletico Madrid,0.25,0.96,0.97,0.38,0.29,0.33,1,1,H,0.5,0
+20210413,Russia,1,CSKA Moscow,Rotor Volgograd,-1.5,0.9,0.95,0.63,0.21,0.16,2,0,A,-1,0
+20210413,Turkey,1,Fenerbahce,Gaziantep FK,-1.25,0.9,0.95,0.7,0.22,0.08,3,1,H,1,0
+20210413,Turkey,1,Alanyaspor,Denizlispor,-1.25,1.05,0.8,0.76,0.19,0.05,3,2,H,-0.5,0
+20210413,England,1,West Bromwich Albion,Southampton,0.5,0.83,1.1,0.45,0.14,0.41,3,0,H,1,0
+20210413,Sweden,1,Kalmar,Ostersunds FK,-0.25,0.83,1.07,0.43,0.22,0.35,0,0,A,0.5,0
+20210413,Sweden,1,AIK,Degerfors,-0.5,0.9,0.95,0.57,0.2,0.23,2,0,H,1,0
+20210413,Italy,2,Chievo,Pisa,-0.5,1.05,0.8,0.33,0.33,0.34,2,0,A,-1,0
+20210413,Netherland,2,AZ II,Dordrecht,-0.75,0.85,1,0.67,0.15,0.18,4,0,H,1,0
+20210413,Netherland,2,MVV,Roda JC,0.25,1,0.85,0.17,0.06,0.77,2,4,A,1,0
+20210413,Netherland,2,Almere City,Telstar,-1,0.95,0.9,0.45,0.09,0.46,1,1,A,1,0
+20210413,Germany,1,Hoffenheim,Bayer Leverkusen,0.25,0.81,1.09,0.36,0.29,0.35,0,0,H,0.5,0
+20210413,France,2,Guingamp,Toulouse,0.25,0.93,0.93,0.17,0.33,0.5,1,1,A,-0.5,0
+20210413,Italy,1,Benevento,US Sassuolo,0.25,0.88,1.02,0.24,0.47,0.29,0,1,H,-1,0
+20210413,Spain,2,Alcorcon,CD Castellon,-0.5,0.98,0.88,0.67,0.17,0.16,2,1,H,1,0
+20210413,Spain,1,Celta Vigo,Sevilla,0.25,1.07,0.83,0.23,0.23,0.54,3,4,A,1,0
+20210413,England,1,Brighton & Hove Albion,Everton,-0.25,0.85,1.08,0.29,0.47,0.24,0,0,A,0.5,0
+20210413,Australia,1,Newcastle Jets,Perth Glory,0,0.8,1.1,0.45,0.36,0.19,1,1,H,0,0
+20210413,Italy,2,Cremonese,Empoli,0.25,0.93,0.93,0.11,0.11,0.78,2,2,A,-0.5,0
+20210414,England,2,Huddersfield Town,AFC Bournemouth,0.75,0.84,1.06,0.28,0.14,0.58,1,2,A,0.5,0
+20210414,England,2,Sheffield Wednesday,Swansea City,0,1.03,0.87,0.26,0.29,0.45,0,2,A,1,0
+20210414,England,2,Rotherham United,QPR,0,0.89,1.01,0.4,0.19,0.41,3,1,A,-1,0
+20210414,Europe,Cup(UCL),PSG,Bayern Munich,0.25,0.99,0.91,0.31,0.28,0.41,0,1,H,-1,0
+20210414,Europe,Cup(UCL),Chelsea,Porto,-0.5,0.82,1.08,1,0,0,0,1,H,-1,0
+20210414,Japan,1,Cerezo Osaka,Tokushima Vortis,-0.25,0.93,0.93,0.48,0.3,0.22,1,2,H,-1,0
+20210414,Japan,1,Sagan Tosu,Gamba Osaka,-0.25,1.05,0.8,0.39,0.34,0.27,0,1,A,1,0
+20210414,Japan,1,Kawasaki Frontale,Avispa Fukuoka,-1.75,0.93,0.93,0.81,0.19,0,3,1,H,0.5,0
+20210414,Japan,1,Nagoya Grampus,Sanfrecce Hiroshima,-0.25,0.98,0.88,0.33,0.33,0.34,1,0,A,-1,0
+20210414,Asia,Cup(ACL),Persepolis,Al Wahda,-1,0.93,0.93,0.67,0.22,0.11,1,0,H,0,0
